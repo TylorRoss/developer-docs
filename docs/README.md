@@ -1,7 +1,7 @@
 <!--Sidd: Since the below HTML content is not a repeating element, I'm not going to create a unique component, nor a separate CSS class at this time.-->
 
 <div>
-
+# logo looks like shit
 <div class="introductoryImage">
 
 <img src="./Dev_Docs_Introduction_small.png">
